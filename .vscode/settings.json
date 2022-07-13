@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "workbench.colorTheme": "Noctis Minimus",
+    "editor.fontSize": 12,
+    "editor.fontFamily": "MesloLGL NF",
+    "terminal.integrated.fontSize": 12
+    
+}
